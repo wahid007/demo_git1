@@ -1,1 +1,1 @@
-This is Hotfix branch.
+This is Master branch.
